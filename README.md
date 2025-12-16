@@ -85,6 +85,28 @@ The report is also published to **Power BI Service (private workspace)** for int
 - Drillthrough analysis by SKU
 - Clean semantic model and DAX measures
 
+## Business value
+
+This Power BI report is designed to support analytical decision-making for Wildberries marketplace operations.
+
+The dashboard enables:
+
+- rapid assessment of overall business performance (revenue, profit, ROI)
+- identification of products and SKUs driving Month-over-Month growth or decline
+- detection of loss-making items and negative contribution to profit
+- analysis of logistics and fulfillment impact by warehouse
+- deep drillthrough from aggregated KPIs down to SKU-level details
+
+The report is intended for use by:
+- marketplace analysts
+- category managers
+- business owners and directors
+
+It helps answer practical business questions such as:
+- Which products caused the largest revenue drop in the selected month?
+- Where do logistics costs significantly reduce profitability?
+- Which SKUs require immediate pricing or assortment decisions?
+
 ## Screenshots
 
 See key report pages here: [docs/screenshots](docs/screenshots)
