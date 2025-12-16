@@ -8,6 +8,16 @@ Wildberries analytics project built in Power BI.
 - Drillthrough analysis by SKU
 - Clean semantic model and DAX measures
 
+## Screenshots
+
+See key report pages here: [docs/screenshots](docs/screenshots)
+
+Preview:
+- Finance overview: ![Finance](docs/screenshots/01_finance_overview.jpg)
+- MoM leaders: ![MoM](docs/screenshots/02_mom_leaders.jpg)
+- Logistics ROI by warehouse: ![Logistics ROI](docs/screenshots/03_logistics_roi_by_warehouse.jpg)
+- Drillthrough SKU: ![Drillthrough SKU](docs/screenshots/04_drillthrough_sku.jpg)
+
 ## Tech stack
 - Power BI Desktop
 - DAX
