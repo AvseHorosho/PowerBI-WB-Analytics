@@ -292,6 +292,16 @@ See key report pages here:
 PBIX files are intended to be opened locally in Power BI Desktop.
 
 ---
+---
+
+## Related Architecture Case
+
+This project demonstrates analytical modeling and semantic engineering.
+
+For governance-driven multi-layer BI architecture (TDP → Executive → CFO Snapshot), see:
+
+**Marketplace-MultiCab-BI-Case**  
+https://github.com/AvseHorosho/Marketplace-MultiCab-BI-Case
 
 ## Author
 
