@@ -276,7 +276,8 @@ See key report pages here:
 - DAX  
 - Power Query (M)  
 - Star-schema data modeling  
-
+- Semantic layer engineering
+  
 ---
 
 ## Repository Structure
